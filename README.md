@@ -33,13 +33,6 @@ I am a B.Tech CSE (AI/ML) student at Panipat Institute of Engineering and Techno
 
 ---
 
-### 📊 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham333k&show_icons=true&theme=dark )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham333k&layout=compact&theme=dark )
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/shubham333k](https://www.linkedin.com/in/shubham333k )
 - **Email:** [shubhamjhanjhot333k@gmail.com]
