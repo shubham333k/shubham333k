@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Shubham Kumar! 👋
 
-<!--
-**shubham333k/shubham333k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Generative AI & RAG Specialist | SIH 2025 Finalist
 
-Here are some ideas to get you started:
+I am a B.Tech CSE (AI/ML) student at Panipat Institute of Engineering and Technology (2026 Grad). I specialize in building intelligent systems using Large Language Models, RAG frameworks, and Data Analytics. My goal is to bridge the gap between complex data and actionable insights through AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Key Achievements
+*   **Smart India Hackathon (SIH) 2025 Finalist:** Developed innovative AI-driven solutions under the Ministry's problem statements.
+*   **CodSoft AI Intern:** Built multiple end-to-end Machine Learning and Computer Vision projects.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** Python, SQL, C++, JavaScript
+- **AI/ML:** Generative AI, RAG (Retrieval-Augmented Generation), LangChain, LangGraph, Computer Vision, Scikit-learn
+- **Data Analytics:** Power BI, Pandas, NumPy, Matplotlib, Seaborn
+- **Databases:** ChromaDB (Vector DB), MySQL, PostgreSQL
+- **Cloud & DevOps:** Docker, Streamlit Cloud, Git, GitHub Actions
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[MedNavigator-AI](https://github.com/shubham333k/MedNavigator-AI )** | Healthcare RAG assistant for clinical knowledge navigation. | LangGraph, Gemini, ChromaDB |
+| **[UrbanFlow](https://github.com/shubham333k/UrbanFlow )** | Intelligent urban traffic and infrastructure optimization system. | Python, AI, Data Analysis |
+| **[DefectX-AI](https://github.com/shubham333k/DefectX-AI )** | Automated industrial defect detection using Computer Vision. | Python, OpenCV, ML |
+| **[SafeGear-AI](https://github.com/shubham333k/-SafeGear-AI- )** | Real-time safety equipment monitoring and alert system. | Computer Vision, Python |
+
+---
+
+### 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham333k&show_icons=true&theme=dark )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham333k&layout=compact&theme=dark )
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/shubham333k](https://www.linkedin.com/in/shubham333k )
+- **Email:** [shubhamjhanjhot333k@gmail.com]
+
+*"Building the future, one prompt at a time."*
