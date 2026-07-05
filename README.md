@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham Kumar! 👋
+# Hi there, I'm Shubham! 👋
 
 ### AI/ML Engineer | Generative AI & RAG Specialist | SIH 2025 Finalist
 
