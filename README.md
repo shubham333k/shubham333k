@@ -34,7 +34,7 @@ I am a B.Tech CSE (AI/ML) student at Panipat Institute of Engineering and Techno
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/shubham333k](https://www.linkedin.com/in/shubham333k )
+- **LinkedIn:** [linkedin.com/in/shubham333k](https://www.linkedin.com/in/shubhamkumar-aiml/)
 - **Email:** [shubhamjhanjhot333k@gmail.com]
 
 *"Building the future, one prompt at a time."*
