@@ -14,7 +14,7 @@ I am a B.Tech CSE (AI/ML) student at Panipat Institute of Engineering and Techno
 
 ### 🛠 Tech Stack & Tools
 
-- **Languages:** Python, SQL, C++, JavaScript
+- **Languages:** Python, SQL, C++
 - **AI/ML:** Generative AI, RAG (Retrieval-Augmented Generation), LangChain, LangGraph, Computer Vision, Scikit-learn
 - **Data Analytics:** Power BI, Pandas, NumPy, Matplotlib, Seaborn
 - **Databases:** ChromaDB (Vector DB), MySQL, PostgreSQL
