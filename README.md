@@ -29,7 +29,7 @@ I am a B.Tech CSE (AI/ML) student at Panipat Institute of Engineering and Techno
 | **[MedNavigator-AI](https://github.com/shubham333k/MedNavigator-AI )** | Healthcare RAG assistant for clinical knowledge navigation. | LangGraph, Gemini, ChromaDB |
 | **[UrbanFlow](https://github.com/shubham333k/UrbanFlow )** | Intelligent urban traffic and infrastructure optimization system. | Python, AI, Data Analysis |
 | **[DefectX-AI](https://github.com/shubham333k/DefectX-AI )** | Automated industrial defect detection using Computer Vision. | Python, OpenCV, ML |
-| **[SafeGear-AI](https://github.com/shubham333k/-SafeGear-AI- )** | Real-time safety equipment monitoring and alert system. | Computer Vision, Python |
+| **[ActionScribe](https://github.com/shubham333k/ActionScribe )** | AI-powered meeting-to-action pipeline for task automation. | LangGraph, Groq, FastAPI |
 
 ---
 
