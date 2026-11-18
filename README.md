@@ -1,6 +1,6 @@
 # Hi , I'm Shubham! 👋
 
-### AI/ML Engineer | Generative AI & RAG Specialist | SIH 2025 Finalist
+### AI/ML Engineer | Generative AI & RAG | SIH 2025 Finalist
 
 I am a B.Tech CSE (AI/ML) student at Panipat Institute of Engineering and Technology (2026 Grad). I specialize in building intelligent systems using Large Language Models, RAG frameworks, and Data Analytics. My goal is to bridge the gap between complex data and actionable insights through AI.
 
